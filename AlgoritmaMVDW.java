@@ -27,11 +27,11 @@ import java.util.logging.Logger;
  *
  * @author maghfirohlutfi
  */
-public class AlgoritmaPlain {
+public class AlgoritmaMVDW {
 
     String[] sMVQ = new String[11];
 
-    public AlgoritmaPlain() {
+    public AlgoritmaMVDW() {
 //            test1
         sMVQ[0] = "select B4_K3,B4_K4 from dokumen";
 

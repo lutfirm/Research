@@ -25,7 +25,7 @@ import java.util.logging.Logger;
  *
  * @author maghfirohlutfi
  */
-public class DwMongoVariabel {
+public class AlgoritmaUsulan {
 
     ArrayList<Object> columnSelect = new ArrayList();
     ArrayList<Object> columnWhere = new ArrayList();
@@ -34,7 +34,7 @@ public class DwMongoVariabel {
     ArrayList<Object> columnGroup = new ArrayList();
     ArrayList<Object> columnOrder = new ArrayList();
 
-    public DwMongoVariabel() {
+    public AlgoritmaUsulan() {
     }
 
     public void setCase1() {
